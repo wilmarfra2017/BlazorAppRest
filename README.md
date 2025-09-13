@@ -34,6 +34,9 @@ Ejemplo de respuesta:
   { "Codigo": 17, "Descripcion": "Balance Inicial",    "VActiva": false }
 ]
 
+## ACCESO A LA APLICACION: 
+## https://ziurappblazor-b3hdhbejangrd9h6.canadacentral-01.azurewebsites.net/
+
 ## Arquitectura
 
 Separación por capas y proyectos:
