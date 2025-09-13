@@ -34,7 +34,8 @@ Ejemplo de respuesta:
   { "Codigo": 17, "Descripcion": "Balance Inicial",    "VActiva": false }
 ]
 
-## ACCESO A LA APLICACION: 
+----------------------------------------------------------------------------
+## Acceso a la Aplicación: 
 ## https://ziurappblazor-b3hdhbejangrd9h6.canadacentral-01.azurewebsites.net/
 
 ## Arquitectura
