@@ -1,0 +1,36 @@
+﻿.page-title {
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+
+.table-docs {
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    overflow: hidden;
+}
+    
+    .table-docs thead th {
+        position: sticky;
+        top: 0;
+        background: #f8fafc;
+        font-weight: 600;
+        z-index: 2;
+    }
+    
+    .table-docs th, .table-docs td {
+        padding: .75rem 1rem;
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+
+.table-responsive {
+    max-height: 70vh;
+}
+.table-docs tbody tr:hover {
+    background: #f2f6ff;
+}

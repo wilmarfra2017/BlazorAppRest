@@ -1,0 +1,15 @@
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\bin\Release\net8.0\Application.deps.json
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\bin\Release\net8.0\Application.dll
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\bin\Release\net8.0\Application.pdb
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\bin\Release\net8.0\Domain.dll
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\bin\Release\net8.0\Domain.pdb
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.csproj.AssemblyReference.cache
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.AssemblyInfoInputs.cache
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.AssemblyInfo.cs
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.dll
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\refint\Application.dll
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\Application.pdb
+C:\Repos\BlazorAppRest\src\Application\BlazorAppRestApplication\obj\Release\net8.0\ref\Application.dll

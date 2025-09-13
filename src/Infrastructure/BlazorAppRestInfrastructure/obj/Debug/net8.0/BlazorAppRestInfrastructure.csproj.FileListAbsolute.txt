@@ -1,0 +1,5 @@
+C:\Repos\BlazorAppRest\src\Infrastructure\BlazorAppRestInfrastructure\obj\Debug\net8.0\BlazorAppRestInfrastructure.csproj.AssemblyReference.cache
+C:\Repos\BlazorAppRest\src\Infrastructure\BlazorAppRestInfrastructure\obj\Debug\net8.0\BlazorAppRestInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BlazorAppRest\src\Infrastructure\BlazorAppRestInfrastructure\obj\Debug\net8.0\BlazorAppRestInfrastructure.AssemblyInfoInputs.cache
+C:\Repos\BlazorAppRest\src\Infrastructure\BlazorAppRestInfrastructure\obj\Debug\net8.0\BlazorAppRestInfrastructure.AssemblyInfo.cs
+C:\Repos\BlazorAppRest\src\Infrastructure\BlazorAppRestInfrastructure\obj\Debug\net8.0\BlazorAppRestInfrastructure.csproj.CoreCompileInputs.cache

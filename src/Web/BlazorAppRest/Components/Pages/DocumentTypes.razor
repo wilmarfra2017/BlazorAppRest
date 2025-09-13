@@ -1,0 +1,62 @@
+﻿@page "/documentos"
+@using System.Net.Http.Json
+
+@inject HttpClient Http
+
+<h3>Tipos de Documento</h3>
+
+@if (_loading)
+{
+    <p>Cargando...</p>
+}
+else if (!string.IsNullOrWhiteSpace(_error))
+{
+    <p class="text-danger">@_error</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descripción</th>
+                <th>Activa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var d in _data)
+            {
+                <tr>
+                    <td>@d.Codigo</td>
+                    <td>@d.Descripcion</td>
+                    <td>@(d.Activa ? "Sí" : "No")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<DocumentTypeVm> _data = new();
+    private bool _loading = true;
+    private string? _error;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _data = await Http.GetFromJsonAsync<List<DocumentTypeVm>>("/api/document-types")
+                    ?? new List<DocumentTypeVm>();
+        }
+        catch (Exception ex)
+        {
+            _error = ex.Message;
+        }
+        finally
+        {
+            _loading = false;
+        }
+    }
+
+    public sealed record DocumentTypeVm(int Codigo, string Descripcion, bool Activa);
+}

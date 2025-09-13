@@ -1,0 +1,11 @@
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\bin\Debug\net8.0\Domain.deps.json
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\bin\Debug\net8.0\Domain.dll
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\bin\Debug\net8.0\Domain.pdb
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.dll
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\refint\Domain.dll
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\Domain.pdb
+C:\Repos\BlazorAppRest\src\Domain\BlazorAppRestDomain\obj\Debug\net8.0\ref\Domain.dll
